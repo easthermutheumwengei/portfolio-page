@@ -144,3 +144,18 @@ nav ul li a:hover {
 #intro a:hover {
     color: rgb(6, 42, 245);
 }
+
+#my-skills {
+    font-family: 'lato', sans-serif;
+    font-size: 1rem;
+    color: #0c0c17;
+    width: 100%;
+}
+
+.my-skill-level {
+    background-color: #EFF0F7;
+    height: 0.4rem;
+    width: 100%;
+    border-radius: 0.2rem;
+    margin-bottom: 3rem;
+}
