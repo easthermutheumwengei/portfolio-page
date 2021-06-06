@@ -235,3 +235,21 @@
         font-weight: 650;
         margin: 0 0 2rem 0;
     }
+    
+    .links {
+        margin-top: 1.5rem;
+    }
+    
+    .links i {
+        padding: 0 0.5rem;
+        transition: 0.5s;
+    }
+    
+    .links a {
+        color: #1981b1;
+        ;
+    }
+    
+    .links i:hover {
+        transform: scale(1.25);
+    }
