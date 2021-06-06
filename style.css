@@ -134,3 +134,13 @@ nav ul li a:hover {
     font-weight: 400;
     transition: 0.5s;
 }
+
+#intro a:visited {
+    color: #1981b1;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+#intro a:hover {
+    color: rgb(6, 42, 245);
+}
