@@ -10,7 +10,7 @@ This is a portfolio website introducing who I am, what I do and what I have done
 
 ## Setup/Installation
 
-To view the website, go to [peterken674.github.io/ip-portfolio](https://peterken674.github.io/ip-portfolio).
+To view the website, go to [https://easthermutheumwengei.github.io/portfolio-page/](https://easthermutheumwengei.github.io/portfolio-page/).
 
 ## Known Bugs
 
