@@ -167,3 +167,10 @@ nav ul li a:hover {
     border-radius: 0.2rem;
     transition: width 1s ease-in-out;
 }
+
+#pro {
+    height: 100%;
+    width: 60%;
+    background-color: royalblue;
+    border-radius: 0.2rem;
+}
