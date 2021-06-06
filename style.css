@@ -146,6 +146,9 @@
         font-size: 1rem;
         color: #0c0c17;
         width: 100%;
+        /* flex-direction: column;
+        display: flex; */
+        margin-left: 30px;
     }
     
     .my-skill-level {
