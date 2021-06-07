@@ -108,9 +108,9 @@ nav ul li a:hover {
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* overflow-x: hidden;
-    overflow-y: hidden; */
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    /* overflow: hidden; */
 }
 
 .heading1 {
